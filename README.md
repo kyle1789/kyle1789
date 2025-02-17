@@ -6,7 +6,6 @@ class Programmer
 	def initialize() 
 ```
 
-<p align="left">
-    <h3 align="left">Linkedin:</h3>
-    <a href="linkedin.com/in/kyle-teixeira-847810230/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true"  height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/kyle-teixeira-847810230/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30">
+</a>
