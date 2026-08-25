@@ -15,7 +15,7 @@ I've worked with real B2B workflows involving **imports, finance, shipments, neg
 
 ## Selected Projects
 
-### StagiLux
+## Stagilux
 Multi-tenant B2B SaaS for supplier and document management, with OCR processing, document validation, expiration workflows and access control.
 
 ### CheckoutPay
