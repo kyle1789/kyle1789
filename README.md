@@ -1,3 +1,7 @@
+# Hi, I'm Kyle Teixeira Trindade
+
+**Software Engineer | Ruby on Rails | B2B Systems, SaaS & Integrations**
+
 Software engineer focused on building **business-oriented applications**, primarily with Ruby on Rails.
 
 I've worked with real B2B workflows involving **imports, finance, shipments, negotiations, suppliers and document management**, translating business processes into reliable software and integrations.
@@ -15,13 +19,13 @@ I've worked with real B2B workflows involving **imports, finance, shipments, neg
 
 ## Selected Projects
 
-Stagilux
+### StagiLux
 Multi-tenant B2B SaaS for supplier and document management, with OCR processing, document validation, expiration workflows and access control.
 
-CheckoutPay
+### CheckoutPay
 Payment processing module with idempotency, lifecycle states and asynchronous charge processing.
 
-OpsFlow
+### OpsFlow
 Workflow-oriented application with authentication, planning, processes, tasks and background jobs.
 
 ## Main Stack
