@@ -1,7 +1,3 @@
-# Hi, I'm Kyle Teixeira Trindade
-
-**Software Engineer | Ruby on Rails | B2B Systems, SaaS & Integrations**
-
 Software engineer focused on building **business-oriented applications**, primarily with Ruby on Rails.
 
 I've worked with real B2B workflows involving **imports, finance, shipments, negotiations, suppliers and document management**, translating business processes into reliable software and integrations.
