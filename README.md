@@ -1,32 +1,33 @@
-# Olá, eu sou Kyle Teixeira Trindade
+# Hi, I'm Kyle Teixeira Trindade
 
-Desenvolvedor de software com foco em **Ruby on Rails**, APIs, integrações e sistemas web.
+**Software Engineer | Ruby on Rails | B2B Systems, SaaS & Integrations**
 
-- Experiência com **backend, autenticação, filas assíncronas, banco de dados e regras de negócio**
-- Stack principal: **Ruby, Rails, PostgreSQL, Redis, Sidekiq, Tailwind**
-- Buscando oportunidades como **desenvolvedor backend / full stack**
+Software engineer focused on building **business-oriented applications**, primarily with Ruby on Rails.
 
-## Stack principal
-- Ruby
-- Ruby on Rails
-- PostgreSQL
-- Redis
-- Sidekiq
-- Tailwind CSS
+I've worked with real B2B workflows involving **imports, finance, shipments, negotiations, suppliers and document management**, translating business processes into reliable software and integrations.
 
-## Também tenho experiência com
-- Node.js
-- React Native
-- Python
-- Docker
-- Git / GitHub
+## What I work with
 
-## Projetos em destaque
-- **OpsFlow** — autenticação, planejamento de processos e filas assíncronas
-- **CheckoutPay** — módulo de pagamentos com idempotência e processamento assíncrono
-- **Estoquei** — fluxo de loja, lojista e fornecedor
-- **StagiLux** — sistema multi-tenant com gestão de fornecedores e documentos
+- Ruby on Rails, PostgreSQL, Redis and Sidekiq
+- B2B systems and business process automation
+- REST and GraphQL integrations, including **Monday.com**
+- Multi-tenant SaaS architectures and role-based access control
+- Authentication, authorization, audit logs and application security
+- Background jobs and asynchronous processing
+- Document workflows with **OCR, regex and keyword-based validation**
+- File scanning, expiration tracking and automated notifications
 
-## Contato
-- LinkedIn: linkedin.com/in/kyle1789/
-- Email: kyle.trindade2@gmail.com
+## Selected Projects
+
+### StagiLux
+Multi-tenant B2B SaaS for supplier and document management, with OCR processing, document validation, expiration workflows and access control.
+
+### CheckoutPay
+Payment processing module with idempotency, lifecycle states and asynchronous charge processing.
+
+### OpsFlow
+Workflow-oriented application with authentication, planning, processes, tasks and background jobs.
+
+## Main Stack
+
+Ruby · Ruby on Rails · PostgreSQL · Redis · Sidekiq · Tailwind CSS · GraphQL · REST · Git · Linux
